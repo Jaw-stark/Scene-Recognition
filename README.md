@@ -1,2 +1,2 @@
 # Scene-Recognition
-Purpose of the project is to build a set of visual recognition systems that classify scene categories.
+Purpose of the project is to build a set of visual recognition systems that classify scene categories. The scene classification dataset consists of 15 scene categories including office, kitchen, and forest as provided. The system will compute a set of image representations (tiny image and bag-of-word visual vocabulary) and predict the category of each testing image using the classifers (k-nearest neighbor and SVM) built on the training data.
